@@ -1,3 +1,5 @@
+*forking and fixing BOM enconding problems - panic: invalid character 'ï' looking for beginning of value
+
 # gocov XML
 
 A tool to generate Go coverage in XML report for using with tools/plugins like Jenkins/Cobertura.
